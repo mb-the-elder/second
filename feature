@@ -1,1 +1,3 @@
-Feature 1 from old conflict
+
+Feature 2
+
